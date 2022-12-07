@@ -1,2 +1,2 @@
-﻿var day = new Day7();
+﻿var day = new Day5();
 day.Run();
